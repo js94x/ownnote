@@ -9,6 +9,6 @@
     <requiremin>7.0.3</requiremin>
     <dependencies>
         <lib>curl</lib>
-	<nextcloud min-version="11" max-version="11" />
+	<nextcloud min-version="10" max-version="12" />
     </dependencies>
 </info>
